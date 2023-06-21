@@ -1,0 +1,10 @@
+{
+    "rules": {
+        "spelling": {
+            "language": "en",
+            "skipPatterns": ["JavaScript"],
+            "wordDefinitionRegexp": "/[\\w']+/g",
+            "suggestCorrections": true
+        }
+    }
+}
